@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HaileyEight
-- 👀 I’m interested in python, c++ and machine learning
+- 👀 I’m interested in AI chip, Operator development，Compiler, DSL
 - 🌱 I’m currently learning c++
 - 📫 How to reach me : hmqddzyx@163.com
 
